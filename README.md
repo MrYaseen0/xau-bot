@@ -35,6 +35,11 @@
 3. Journal every paper trade — entry, stop, target, outcome, and what you learned.
 4. Review weekly. Only consider real capital after long, consistent demo results.
 
+## 📁 Docs
+
+- [Market analysis — Sep 20, 2026](docs/market-analysis-2026-09-20.md) — XAU/USD weekly review, drivers, key levels and a Monday battle plan.
+- [Dashboard test report — Sep 20, 2026](docs/dashboard-test-report-2026-09-20.md) — backend feature verification results.
+
 ## 🛠 About this repo
 
 This repo holds the project documentation for the XAU Bot dashboard. The live app
